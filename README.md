@@ -1,1 +1,3 @@
 # YOMIMASU
+
+Manga Reader app
